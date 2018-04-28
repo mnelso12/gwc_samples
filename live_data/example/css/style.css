@@ -1,0 +1,20 @@
+body {
+	background-color: azure; 
+	margin: 20px 20px 20px 20px;
+}
+
+table, th, td {
+	background-color: darkslategray;
+	margin: 10px 10px 10px 10px;
+	padding: 5px 5px 5px 5px;
+	border: 1px solid black;
+}
+
+th {
+	font-weight: bold;
+	background-color: lightpink;
+}
+
+td {
+	background-color: powderblue;
+}
