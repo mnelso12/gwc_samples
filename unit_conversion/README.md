@@ -22,7 +22,7 @@
 * 1 Teaspoon = 1/3 Tablespoons
 * 1 Tablespoon = 3 Teaspoons
 
-* 1 Cup = .0625 Gallons 
+* 1 Cup = 0.0625 Gallons 
 * 1 Gallon = 16 Cups
 
 #### Time
@@ -37,10 +37,10 @@
 
 #### Length
 * 1 Inch = 2.54 Centimeters
-* 1 Centimeter = .393701 Inches
+* 1 Centimeter = 0.393701 Inches
 
 * 1 Foot = 12 Inches
-* 1 Inch = .08333 Feet
+* 1 Inch = 0.08333 Feet
 
 #### Force 
 * 1 Pound (Force) = 4.44822 Newtons
