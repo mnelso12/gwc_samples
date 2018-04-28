@@ -17,5 +17,6 @@
     NJN9gei9v5tKH7xgXWmuicL2w
 API keys are similar to passwords. Adding this key to the URL tells the CTA that we have permission to get data from them. 
 
-##### CTA Bus Times API Documentation 
+#### CTA Bus Times API Documentation 
+For more information about the CTA API, including other kinds of data the CTA shares, follow this link:
 https://www.transitchicago.com/assets/1/6/cta_Bus_Tracker_API_Developer_Guide_and_Documentation_20160929.pdf
