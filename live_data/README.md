@@ -1,6 +1,9 @@
 # Live Data with APIs 
 ### Learn how to get live data from an API onto a web page 
 
+**You may need to install this Chrome plugin to successfully call the API** 
+https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi/related?hl=en-US
+
 #### HTML Skills
 * table, thead, th, tbody, tr, td tags https://www.w3schools.com/tags/tag_tbody.asp
 
