@@ -18,3 +18,30 @@
 #### Volume
 * 1 Fluid Ounce = 0.125 Cups 
 * 1 Cup = 8 Fluid Ounces
+
+* 1 Teaspoon = 1/3 Tablespoons
+* 1 Tablespoon = 3 Teaspoons
+
+* 1 Cup = .0625 Gallons 
+* 1 Gallon = 16 Cups
+
+#### Time
+* 1 Minute = 0.016667 Hours
+* 1 Hour = 60 Minutes 
+
+* 1 Year = 31,540,000 Seconds 
+* 1 Second = 0.0000000317057705 Years 
+
+* 1 Year = 525,600 Minutes 
+* 1 Minute = 0.00000190258 Years 
+
+#### Length
+* 1 Inch = 2.54 Centimeters
+* 1 Centimeter = .393701 Inches
+
+* 1 Foot = 12 Inches
+* 1 Inch = .08333 Feet
+
+#### Force 
+* 1 Pound (Force) = 4.44822 Newtons
+* 1 Newton = 0.224809 Pounds (Force)
