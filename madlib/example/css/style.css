@@ -1,0 +1,12 @@
+body {
+	background-color: yellow; 
+	margin: 20px 20px 20px 20px;
+}
+
+#number {
+	font-size: 48px;
+}
+
+li {
+	margin-top: 10px;
+}
