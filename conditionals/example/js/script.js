@@ -12,9 +12,11 @@ $(document).ready(function(){
 		// determine what animal was inputted
 		if (animal == "cat") {
 			image_source = "images/cat.png";	
+			$("#error_message").html("");
 		} 
 		else if (animal == "dog") {
 			image_source = "images/dog.png";	
+			$("#error_message").html("");
 		}
 		else {
 			$("#error_message").html("Not a dog or a cat!");
