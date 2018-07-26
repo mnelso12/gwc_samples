@@ -1,0 +1,17 @@
+body {
+	background-color: lightblue; 
+	margin: 20px 20px 20px 20px;
+}
+
+button {
+	margin: 10px;
+}
+
+img {
+	width: 150px;
+	height: auto;
+}
+
+h4 {
+	margin-top: 40px;
+}
