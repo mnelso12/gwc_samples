@@ -7,7 +7,7 @@ $(document).ready(function(){
 		$("#bus_times_table tbody").html("");
 
 		var bus_route_number = $("#bus_route_number").val();
-		var bus_data_url = 'http://www.ctabustracker.com/bustime/api/v2/getvehicles?key=NJN9gei9v5tKH7xgXWmuicL2w&format=json&rt=' + bus_route_number;
+		var bus_data_url = 'https://www.ctabustracker.com/bustime/api/v2/getvehicles?key=NJN9gei9v5tKH7xgXWmuicL2w&format=json&rt=' + bus_route_number;
 	
 		// ask CTA API for bus times data
 		$.ajax({
